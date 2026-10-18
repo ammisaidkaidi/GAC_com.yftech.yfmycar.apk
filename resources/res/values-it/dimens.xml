@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="open_close_child_tab_height">64dp</dimen>
+    <dimen name="sp_20">18sp</dimen>
+    <dimen name="sp_23">16sp</dimen>
+    <dimen name="sp_24">18sp</dimen>
+    <dimen name="sp_28">19sp</dimen>
+    <dimen name="sp_30">22sp</dimen>
+    <dimen name="sp_32">24sp</dimen>
+    <dimen name="sp_skylight_adjust">20sp</dimen>
+    <dimen name="sunshade_control_btn_width">210dp</dimen>
+</resources>

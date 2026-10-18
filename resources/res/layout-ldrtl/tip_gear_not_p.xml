@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:id="@+id/ll_tip_gear"
+    android:tag="layout-ldrtl/tip_gear_not_p_0"
+    android:background="@color/black_80"
+    android:visibility="invisible"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="rtl"
+    android:paddingStart="840dp"
+    android:paddingEnd="@dimen/dp_70">
+    <TextView
+        android:textSize="@dimen/sp_36"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:id="@+id/tv_tip"
+        android:background="@mipmap/vecl_btn_popup_bg"
+        android:paddingTop="@dimen/dp_48"
+        android:paddingBottom="@dimen/dp_59"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_160"
+        android:text="@string/tip_not_gear_p"
+        android:paddingStart="@dimen/dp_70"
+        android:paddingEnd="@dimen/dp_70"/>
+</LinearLayout>

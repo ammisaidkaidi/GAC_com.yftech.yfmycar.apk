@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="@dimen/dp_66"
+        android:width="@dimen/dp_832">
+        <shape android:shape="rectangle"/>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="@dimen/dp_14"
+        android:width="@dimen/dp_832"
+        android:drawable="@mipmap/mycar_pic_color_bar_ar"
+        android:top="@dimen/dp_26"
+        android:bottom="@dimen/dp_26"/>
+</layer-list>
